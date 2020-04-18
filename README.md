@@ -1,4 +1,4 @@
-## Human Action Recognition UCF-Sport
+# Human Action Recognition UCF-Sport
 
 UCF Sports dataset consists of a set of actions collected from various sports which are typically featured on broadcast television channels such as the BBC and ESPN. The video sequences were obtained from a wide range of stock footage websites including BBC Motion gallery and GettyImages.
 
